@@ -19,4 +19,4 @@ Skills Learned:
 Files
 * fine_tune_embeddings.py - Used to fine-tune input BERT model based on a list of senses and mapping sentences
 * bert_predict_senses.py - Imports BERT model (original / fine-tuned), extracts sentence embeddings, uses target word embedding on separate MLP to predict sense class. Creates MLP for each sense.
-* report*.py - Reports along the way of the project
+* *.pdf - Reports along the way of the project
