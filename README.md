@@ -8,7 +8,7 @@ Concepts Learned:
 * Importance and low-cost of fine-tuning
 * Tensor calculations vs. Array Calculations
 * Wordnet synset and lemma mappings
-<br>
+
 Skills Learned:
 * Fine-Tuning strategies (epochs, task type)
 * Creating custom loss function
